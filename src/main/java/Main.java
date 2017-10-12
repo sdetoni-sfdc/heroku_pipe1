@@ -49,7 +49,7 @@ public class Main {
         attributes.put("results", output);
         return new ModelAndView(attributes, "db.ftl");
       } catch (Exception e) {
-        attributes.put("message", "There was an error: " + e);
+        attributes.put("message", "Hey Amico, There was an error: " + e);
         return new ModelAndView(attributes, "error.ftl");
       }
     }, new FreeMarkerEngine());
