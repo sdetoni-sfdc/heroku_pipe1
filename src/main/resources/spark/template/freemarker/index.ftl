@@ -11,7 +11,7 @@
 <div class="jumbotron text-center">
   <div class="container">
     <a href="/" class="lang-logo">
-      <img src="/lang-logo.png">
+      <img src="/cir.png">
     </a>
     <h1>ECCO LA NUOVA APP DI CIRFOOD !!</h1>
    
