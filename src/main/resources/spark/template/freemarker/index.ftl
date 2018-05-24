@@ -11,7 +11,7 @@
 <div class="jumbotron text-center">
   <div class="container">
     <a href="/" class="lang-logo">
-      <img src="/foto_DeToni_crop.gif">
+      <img src="/IMG_7998.jpg">
     </a>
     <h1>Hello WORLD:Gif for basecamp 18</h1>
    
